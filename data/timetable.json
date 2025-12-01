@@ -1,0 +1,12 @@
+{
+  "Route 1": [
+    { "stop": "Main Gate", "time": "08:00 AM" },
+    { "stop": "Library", "time": "08:10 AM" },
+    { "stop": "Hostel", "time": "08:20 AM" }
+  ],
+  "Route 2": [
+    { "stop": "Sports Complex", "time": "09:00 AM" },
+    { "stop": "Admin Block", "time": "09:10 AM" },
+    { "stop": "IT Dept", "time": "09:20 AM" }
+  ]
+}
